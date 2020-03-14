@@ -2,17 +2,17 @@
 # Configuration file for sf_saver_bot
 
 # Insert you bot's token here
-token = 'ENTER YOUR BOT TOKEN HERE'
+token = 'INSERT YOUR BOT TOKEN HERE'
 
 # List of authorized users
 userlist = [
-    'SOME_USERNAME'
+    'INSERT TELEGRAM USERNAME HERE'
 ]
 
 # Directory for saving logs
-log_dir = '/home/user/SOME_LOCAL_DIR'
+log_dir = ''
 
 help_msg = """
-	PLACEHOLDER
-    Nothing to see here!
-	"""
+    This bot saves everything (text, photos, videos, documents)
+    to a folder on local drive
+    """
